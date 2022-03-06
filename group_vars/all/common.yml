@@ -3,3 +3,5 @@ vim_configure_note_taking_commands: true
 
 git_autocrlf: "input"
 
+wsl2_nameservers:
+  - 8.8.8.8
